@@ -1,6 +1,10 @@
+body{
+  height: 100vh;
+}
+
 .psw-style{
-  color: aqua;
+  color: red;
   font-size: 1.2em;
   font-weight: bolder;
-  text-transform: capitalize;
+  text-transform:capitalize;
 }
